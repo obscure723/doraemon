@@ -1,0 +1,223 @@
+.circle {
+  border:solid 1px black;
+  border-color:black;
+  border-radius:50%;
+  height:798px;
+  width:798px;
+  background-color:blue;
+  margin:0 auto;
+}
+
+.inner-circle {
+  border:solid 1px black;
+  border-color:black;
+  border-radius:50%;
+  height:648px;
+  width:698px;
+/*  position:relative;
+  top:25px;
+  left:25px;*/
+  background-color:white;
+  margin:150px 50px 0px 50px;
+}
+
+
+.lefteye {
+  height:198px;
+  width:138px;
+  border:solid 1px black;
+  border-color:black;
+  border-radius:70%;
+  margin:-248px 0px auto 211px;
+  background-color:white;
+
+}
+
+.righteye {
+  height:198px;
+  width:138px;
+  border:solid 1px black;
+  border-color:black;
+  border-radius:70%;
+  float:left;
+  margin:-79px 0px auto 49px;
+  background-color:white;
+}
+  
+  
+.hana {
+  height:78px;
+  width:78px;
+  border:solid 1px black;
+  border-color:black;
+  border-radius:50%;
+  background-color:red;
+  clear:both;
+  margin:60px 0px 0px 310px;
+  
+}
+
+
+#centerborder {
+  background-color:black;
+  width:1px;
+  height:210px;
+  margin:48px 0px 0px 350px;
+}
+
+#eyel {
+  width:30px;
+  height:50px;
+  background-color:black;
+  border-radius:50%;
+  margin:80px -140px 0px 90px;
+}
+
+#eyer {
+  width:30px;
+  height:50px;
+  background-color:black;
+  border-radius:50%;
+  margin:78px 0px 0px 15px;
+}
+  
+
+#kuti {
+  width:500px;
+  height:200px;
+  border-radius:0px 0px 250px 250px;
+  border:1px solid black;
+  margin:0px 0px 0px 100px;
+  background-color:#FF0000;
+  
+}
+
+#sita {
+  width:200px;
+  height:100px;
+  border-radius:100px 100px 45px 45px;
+  border:1px solid black;
+  background-color:#FF69B4;
+  margin:99px 0px 0px 150px;
+}
+
+
+
+
+
+#nanametr {
+  width:300px;
+  height:0px;
+  border:1px solid black;
+  transform:rotate(-20deg);
+  margin:-400px 0px 0px 440px;
+}
+
+#nanamecr {
+  width:300px;
+  height:0px;
+  border:1px solid black;
+  margin:80px 0px 0px 455px;
+}
+
+#nanamebr {
+  width:300px;
+  height:0px;
+  border:1px solid black;
+  transform:rotate(20deg);
+  margin:80px 0px 0px 445px;
+}
+
+
+#nanametl {
+  width:300px;
+  height:0px;
+  border:1px solid black;
+  transform:rotate(20deg);
+  margin:-160px 0px 0px -40px;
+}
+
+#nanamecl {
+  width:300px;
+  height:0px;
+  border:1px solid black;
+  margin:80px 0px 0px -55px;
+}
+
+#nanamebl {
+  width:300px;
+  height:0px;
+  border:1px solid black;
+  transform:rotate(-20deg);
+  margin:80px 0px 0px -50px;
+}
+
+
+#kurul {
+  width:50px;
+  height:50px;
+  border-radius:0px 0px 0px 50px;
+  border-left:2px solid black;
+  border-bottom:2px solid black;
+  margin:-24px 0px 0px 50px;
+  
+}
+
+#kurur {
+  width:50px;
+  height:50px;
+  border-radius:0px 0px 50px 0px;
+  border-right:2px solid black;
+  border-bottom:2px solid black;
+  margin:-52px 0px 0px 600px;
+  
+}
+
+
+#himo {
+  width:360px;
+  height:50px;
+  border:1.5px solid black;
+  background-color:red;
+  border-radius:20px 20px 20px 20px;
+  margin:250px 0px 0px 170px; 
+}
+ 
+
+#suzu {
+  width:90px;
+  height:90px;
+  border-radius:50%;
+  background-color:Gold;
+  border:1px solid black;
+  margin:-45px 0px 0px 305px;
+}
+
+
+#suzukuro {
+  width:35px;
+  height:35px;
+  border-radius:50%;
+  background-color:black;
+  margin:-50px 0px 0px 332px;
+}
+
+#suzusen {
+  width:5px;
+  height:20px;
+  background-color:black;
+  border-radius:0px 0px 10px 10px;
+  margin:-5px 0px 0px 348px;
+}
+
+#suzuwaku {
+   width:86px;
+  height:8px;
+  border:1.5px solid black;
+  background-color:#DAA520;
+  border-radius:10px 10px 10px 10px;
+  margin:-70px 0px 0px 307px;
+}
+
+
+
